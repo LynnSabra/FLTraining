@@ -1,0 +1,8 @@
+__pycache__/
+.idea/
+experiments/logs/
+yolo_model.pkl
+nohup.out
+data/street_5/
+data/task_configs/
+weights/darknet53.conv.74

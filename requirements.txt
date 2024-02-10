@@ -1,0 +1,15 @@
+tqdm
+nano
+scipy
+numpy
+Cython
+pillow
+sklearn
+eventlet
+torchnet
+matplotlib
+scikit-image
+torch==1.4.0
+terminaltables
+python-socketio
+torchvision==0.5.0

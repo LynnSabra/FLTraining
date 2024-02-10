@@ -1,0 +1,17 @@
+{
+    "client_number": 2,
+    "model_name": "ClassificationModelWrapper",
+    "log_filename": "classification/faceswap/FL_client_2_log",
+    "n_cpu": 4,
+    "local_epoch": 1,
+    "batch_size": 4,
+    "Num_classes": 10,
+    "momentum":0,
+    "data_dir": "dataset/2",
+    "lr": 1e-5,
+    "alpha": 0.99,
+    "eps": 1e-08,
+    "weight_decay": 0,
+    "network": "resnet50",
+    "personalized_layers": []
+}
