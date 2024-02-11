@@ -1,3 +1,4 @@
+#resulting models for each FL client are created under the name last_model_(i)
 import sys
 import os
 import csv
